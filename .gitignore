@@ -1,0 +1,21 @@
+# Node
+node_modules/
+
+# Mac
+.DS_Store
+
+# VSCode
+.vscode
+
+# Vim temp files
+*.swo
+*.swp
+
+# Terraform
+.terraform/
+.terraform.*
+terraform.tfstate*
+terraform.tfvars
+*.tfstate
+*.tfstate.*
+
